@@ -26,14 +26,13 @@ immediately should be minimized, always create layers.
 
 ## Mods - hacking
 #### Heat sink:
-* reduce the default 2 min cooldown time (per agent) 
-* reset the cooldown timer and burnout hack counts to zero, allowing you to hack the portal again immediately after a heat sink is installed.
+* decrease the default 2 min cooldown time (per agent)
+* reset the cooldown timer and burnout hack counts to zero, allowing to hack the portal again immediately after a heat sink is installed
 *Common: -20% Rare: -50% Very Rare: -70%*
 
 #### Multi hack
 * increase the number of hacks before burnout (default max 4 times in 4 hours), but do not reset the cooldown timer or 
-burnout 
-hack count like heat sinks do.  
+burnout hack count like heat sinks do.  
 *Common: +4 hacks Rare: +8 hacks Very Rare: +12 hacks*
 
 
