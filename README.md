@@ -22,7 +22,7 @@ immediately should be avoided.
 * shared bases
 
 ##### Cobweb:
-* hard to build but no single point of failure
+* hard to build but without a single point of failure
 
 ## Mods - hacking
 #### Heat sink:
