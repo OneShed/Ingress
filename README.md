@@ -1,5 +1,5 @@
 # Ingress
-All stolen from [Ingress wiki](https://ingress.fandom.com/wiki/Ingress_Prime) ✍️
+Notes to the game. Rest to be found on [Ingress wiki](https://ingress.fandom.com/wiki/Ingress_Prime) ✍️
 
 ## Fielding
 #### Max links L portals
