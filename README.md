@@ -8,7 +8,7 @@ Notes to the game. Rest to be found on [Ingress wiki](https://ingress.fandom.com
 Get more MU per area, make them harder to destroy.
 #### Rules
 * ```One link creates only one field (the bigger one) on each side```. Rule of 👍: links not creating fields 
-immediately should be minimized, always create layers. 
+immediately should be minimized, always create larger layer covering the smaller one.
 * Fields don't layer automatically; inner fields to be created first. Avoid the empty fields.  
 ![](wiki/null_fields.png)
 #### Patterns ([youtube](https://www.youtube.com/watch?v=FkHtelZxgtg))
